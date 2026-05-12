@@ -1,0 +1,5 @@
+mountpoints:
+  /:
+    url: "https://author-p71057-e903632.adobeaemcloud.com/bin/franklin.delivery/vaneeghemk/frescopa/main"
+    type: "markup"
+    suffix: ".html"
