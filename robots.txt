@@ -12,4 +12,7 @@ Disallow: /blog/cold-brewing-101
 User-agent: OAI-User
 Disallow: /blog/cold-brewing-101
 
+User-agent: Adobe-BC-Crawler
+Allow: /
+
 Sitemap: https://frescopa.coffee/sitemap-index.xml
